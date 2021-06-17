@@ -6,14 +6,14 @@ Use create-react-app and express-generator to setup skeleton for the frontend an
 
 Backend:
 
-1. Set up /grocery route, connect router, controller and model
+- [ ] 1. Set up /grocery route, connect router, controller and model
 
-2. Create a grocery Model that has the following:
-* grocery: String
-* purchased: Boolean
-* Date: Date.now
+- [ ] 2. Create a grocery Model that has the following:
+- [ ] * grocery: String
+- [ ] * purchased: Boolean
+- [ ] * Date: Date.now
 
-3. Set up all the functionalities in the Controller for these Routes:
+- [ ] 3. Set up all the functionalities in the Controller for these Routes:
 * /get-all-groceries
 * /create-grocery
 * /update-grocery-by-id
@@ -23,14 +23,14 @@ Frontend:
 
 Similar set up to the todo app:
 
-1. Should have an input text to add grocery list items.
+- [ ] 1. Should have an input text to add grocery list items.
 
-2. After each item is added, you can see the grocery item below with 3 option buttons of edit, purchased and delete next to it
+- [ ] 2. After each item is added, you can see the grocery item below with 3 option buttons of edit, purchased and delete next to it
 * Edit should toggle the grocery item to be able to edit and submit
 * Purchased should toggle the grocery item to be crossed out if its purchased
 * Delete should delete the grocery item from the list
 
-3. Above the list of items, there should be 4 sorting options
+- [ ] 3. Above the list of items, there should be 4 sorting options
 * Sort by date added- Oldest to Newest
 * Sort by date added- Newest to Oldest
 * Sort by Purchased
